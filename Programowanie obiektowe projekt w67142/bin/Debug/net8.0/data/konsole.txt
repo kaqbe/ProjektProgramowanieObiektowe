@@ -1,0 +1,5 @@
+1.PlayStation 5.499,99.10.PS5.Standard Edition
+2.Xbox Series X.499,99.8.Xbox.Series X
+3.Nintendo Switch.299,99.15.Nintendo.Switch
+4.PlayStation 4 Pro.399,99.5.PS4.Pro
+5.Xbox One X.399,99.4.Xbox.One X

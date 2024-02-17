@@ -1,0 +1,14 @@
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\bin\Debug\net8.0\Programowanie obiektowe projekt w67142.exe
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\bin\Debug\net8.0\Programowanie obiektowe projekt w67142.deps.json
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\bin\Debug\net8.0\Programowanie obiektowe projekt w67142.runtimeconfig.json
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\bin\Debug\net8.0\Programowanie obiektowe projekt w67142.dll
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\bin\Debug\net8.0\Programowanie obiektowe projekt w67142.pdb
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.AssemblyInfoInputs.cache
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.AssemblyInfo.cs
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.csproj.CoreCompileInputs.cache
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.dll
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\refint\Programowanie obiektowe projekt w67142.dll
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.pdb
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\Programowanie obiektowe projekt w67142.genruntimeconfig.cache
+C:\Users\PERSONA\Desktop\Programowanie obiektowe w67142 projekt\Programowanie obiektowe projekt w67142\obj\Debug\net8.0\ref\Programowanie obiektowe projekt w67142.dll

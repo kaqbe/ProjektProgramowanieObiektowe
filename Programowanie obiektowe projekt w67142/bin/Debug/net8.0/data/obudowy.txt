@@ -1,0 +1,5 @@
+1.NZXT H510.99,99.10.Mid Tower.Steel.True
+2.Corsair Carbide.89,99.8.Full Tower.Aluminum.False
+3.Phanteks Eclipse.79,99.12.Mid Tower.Steel.True
+4.Thermaltake V200.69,99.15.Mid Tower.Tempered Glass.True
+5.Fractal Design Meshify.109,99.7.Mid Tower.Tempered Glass.True

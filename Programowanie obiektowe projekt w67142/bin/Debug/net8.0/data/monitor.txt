@@ -1,0 +1,6 @@
+2.Monitor test zmiany.123.1. 120x2.12
+3.Dell UltraSharp.1500.7.3840x2160.32
+4.Asus ProArt.200.4.3840x2160.27
+5.Acer Predator.2500.3.3440x1440.34
+6. Monitor testd dodania.1000.10. 120x110.12
+10. Monitor test dodania.100.10. 1280x720.19
