@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Programowanie obiektowe projekt w67142/1.0.0": {
+        "runtime": {
+          "Programowanie obiektowe projekt w67142.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programowanie obiektowe projekt w67142/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

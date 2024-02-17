@@ -1,0 +1,5 @@
+1.DualShock 4.59,99.20.Bluetooth.True.PS4
+2.Pad test zmiany.10.1. BT.False. PC
+3.Nintendo Switch Pro Controller.69,99.10.USB-C.True.Switch
+4.Logitech Gamepad F710.49,99.12.Wireless.True.PC
+5.Razer Wolverine Ultimate.159,99.5.USB.True.Xbox/PC

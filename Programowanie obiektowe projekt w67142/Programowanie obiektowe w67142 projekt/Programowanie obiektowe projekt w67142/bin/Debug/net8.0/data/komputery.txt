@@ -1,0 +1,5 @@
+1.Dell XPS.4999,99.5.Intel Core i7.16.512.NVIDIA GTX 1650
+2.HP Envy.4500,00.4.Intel Core i5.8.256.AMD Radeon RX 550
+3.Lenovo Legion.5500,99.3.AMD Ryzen 7.16.1TB.NVIDIA RTX 2060
+4.ASUS ROG.6000,00.2.Intel Core i9.32.1TB.NVIDIA RTX 3080
+5.Acer Aspire.3000,00.6.Intel Core i5.8.512.Intel UHD Graphics
